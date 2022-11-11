@@ -1,7 +1,17 @@
 header {
     background-color: #BBBBBB;
+    padding: 10px 0;
 }
-
+.container{
+    position: relative;
+    width: 1080px;
+    margin: 0 auto;
+}
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0px;
+}
 nav li {
     display: inline-block;
     margin-left: 15px;
